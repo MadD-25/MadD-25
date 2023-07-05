@@ -1,4 +1,4 @@
-hello tihs is my first time using github
+hello this is my first time using github
 
 i have a little knowledge about progaming world, and i've made game(not to good actually hehe :>. but its still fun to play).
 
